@@ -1,0 +1,13 @@
+.grid {
+  display: inline-block;
+  /* overflow-x: auto; */
+  /* width: 1400px; */
+
+  padding:20px;
+  white-space: nowrap;
+  
+  transform: rotate(90deg)translateY(135px)translateX(400px);
+}
+.outer{
+  text-align: center;
+}
